@@ -1,7 +1,7 @@
 # Training
 Spruce up your Discord playing status by training as your favorite DBZ characters
 <br>
-<img src="https://i.imgur.com/662rNjh.png">
+<img src="https://i.imgur.com/3Q8O8x5.png">
 <img src="https://i.imgur.com/foV8Pn9.gif">
 
 # Setup
