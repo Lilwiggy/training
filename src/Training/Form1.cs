@@ -131,7 +131,7 @@ namespace Training
 
             RichPresence presence = new RichPresence()
             {
-                Details = $"Traning as {Character}",
+                Details = $"Training as {Character}",
                 State = $"Training Level: {TrainingLevel}",
                 Assets = new Assets()
                 {
