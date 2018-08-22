@@ -1,0 +1,13 @@
+C:\Users\John\Desktop\dsf\Training\Training\bin\Debug\Training.exe.config
+C:\Users\John\Desktop\dsf\Training\Training\bin\Debug\Training.exe
+C:\Users\John\Desktop\dsf\Training\Training\bin\Debug\Training.pdb
+C:\Users\John\Desktop\dsf\Training\Training\obj\Debug\Training.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\dsf\Training\Training\obj\Debug\Training.Form1.resources
+C:\Users\John\Desktop\dsf\Training\Training\obj\Debug\Training.Properties.Resources.resources
+C:\Users\John\Desktop\dsf\Training\Training\obj\Debug\Training.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\dsf\Training\Training\obj\Debug\Training.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\dsf\Training\Training\obj\Debug\Training.exe
+C:\Users\John\Desktop\dsf\Training\Training\obj\Debug\Training.pdb
+C:\Users\John\Desktop\dsf\Training\Training\bin\Debug\DiscordRPC.dll
+C:\Users\John\Desktop\dsf\Training\Training\bin\Debug\Newtonsoft.Json.dll
+C:\Users\John\Desktop\dsf\Training\Training\bin\Debug\Newtonsoft.Json.xml
